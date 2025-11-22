@@ -4,7 +4,7 @@
 
 This console-based application is designed as a practical project to demonstrate fundamental programming concepts, including file handling, data structure manipulation (dictionaries and lists), and procedural logic for solving a common organizational problem: tracking personal expenditures.
 
-### Author Details
+### Programmer Details
 * **Name:** Debasish Kumar Sahoo
 * **Registration No:** 25BAI10173
 
